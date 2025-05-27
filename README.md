@@ -1,4 +1,4 @@
-# Group_8_202401100300063_loan_default_prediction
+# Group_8_loan_default_prediction
 # 🏦 Loan Default Prediction using Machine Learning
 
 ## 📌 Project Objective
